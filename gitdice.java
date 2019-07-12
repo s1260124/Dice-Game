@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dice{
+public class gitdice{
     public static void main(String[] args){
 	    
 	Scanner s = new Scanner(System.in);
@@ -25,7 +25,7 @@ public class dice{
 
 	// Add a new feature.→ if sum=12, it is maximum value.
 	if(sum == 12){
-	    System.out.println(st + " gave maximum value.");
+	    System.out.println(st + " got maximum value.");
 	}
 	    
 
